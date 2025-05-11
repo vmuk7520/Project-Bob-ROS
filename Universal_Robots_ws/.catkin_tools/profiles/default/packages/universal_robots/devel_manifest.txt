@@ -1,0 +1,2 @@
+universal_robot/universal_robots
+/home/victor/Universal_Robots_ws/devel/.private/universal_robots/cmake.lock /home/victor/Universal_Robots_ws/devel/./cmake.lock

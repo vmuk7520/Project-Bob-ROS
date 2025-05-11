@@ -1,0 +1,12 @@
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/liburcl_log_handler.so
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/libur_robot_driver_plugin.so
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/ur_robot_driver/tool_communication
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/ur_robot_driver/dashboard_client
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/ur_robot_driver/cmake.lock
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/ur_robot_driver/controller_stopper_node
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/ur_robot_driver/test_move
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/ur_robot_driver/robot_state_helper
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/ur_robot_driver/ur_robot_driver_node
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/pkgconfig/ur_robot_driver.pc
+Symlinking /home/victor/Universal_Robots_ws/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig-version.cmake
+Symlinking /home/victor/Universal_Robots_ws/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig.cmake

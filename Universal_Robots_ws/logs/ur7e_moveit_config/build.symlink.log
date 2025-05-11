@@ -1,0 +1,3 @@
+Symlinking /home/victor/Universal_Robots_ws/devel/lib/pkgconfig/ur7e_moveit_config.pc
+Symlinking /home/victor/Universal_Robots_ws/devel/share/ur7e_moveit_config/cmake/ur7e_moveit_configConfig-version.cmake
+Symlinking /home/victor/Universal_Robots_ws/devel/share/ur7e_moveit_config/cmake/ur7e_moveit_configConfig.cmake

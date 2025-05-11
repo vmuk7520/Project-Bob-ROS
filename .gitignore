@@ -1,0 +1,7 @@
+*/build/
+*/devel/
+
+*.catkin_workspace
+A3_WS/src/CMakeLists.txt
+*__pycache__
+.vscode*
